@@ -1,4 +1,5 @@
 Create an Home page
+Create about page.
 
 # Welcome to Rails
 zazazaza
