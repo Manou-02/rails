@@ -1,3 +1,5 @@
+Create an Home page
+
 # Welcome to Rails
 zazazaza
 ## What's Rails?
